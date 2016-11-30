@@ -1,0 +1,12 @@
+.composant .label {
+ display: inline-block;
+}
+.composant .champ {
+ display: inline-block;
+}
+.composant .tags {
+display: inline-block;
+}
+.composant {
+  margin-bottom :10px;
+}
